@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Conor-Fleming&color=brightgreen)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conor-Fleming&layout=compact&theme=blue-green)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Conor-Fleming&show_icons=true&theme=blue-green)
 
