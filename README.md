@@ -1,5 +1,4 @@
 ## Hello and welcome👋
-### Im a software developer focusing on backend technologies
 
 ### ✉️ Mail me: conorfleming03@gmail.com
 ### 🌱 Connect: [LinkedIn](https://www.linkedin.com/in/conor-fleming-7ab59aa9/)
