@@ -4,10 +4,6 @@
 ### 🌱 Connect: [LinkedIn](https://www.linkedin.com/in/conor-fleming-7ab59aa9/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Conor-Fleming&show_icons=true&theme=cobalt&locale=en)
-![GitHub languages stat](https://github-readme-stats.vercel.app/api/top-langs?username=Conor-Fleming&show_icons=true&locale=en&theme=cobalt&layout=compact)
-
-
-
 
 
 <!--
